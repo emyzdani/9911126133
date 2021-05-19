@@ -1,0 +1,21 @@
+body{
+	background:#fcfcfc;
+	font-family: Kalameh;
+	font-size: 14px ;
+}
+
+.title{
+	font-size: 20px;
+	color: #8bc34a;
+	text-align: left;
+}
+
+.title img{
+	width : 50%;
+	float:right;
+}
+
+.logo{
+	width : 5%;
+	
+}
